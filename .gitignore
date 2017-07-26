@@ -1,0 +1,16 @@
+
+*.ini
+
+*.xml
+
+*.cfg
+
+icons/*
+logs Channels/*
+logs Characters/*
+logs/*
+*.iml
+
+.cache/v/cache/lastfailed
+
+.coverage
