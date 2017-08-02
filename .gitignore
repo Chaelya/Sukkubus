@@ -10,7 +10,7 @@ logs Channels/*
 logs Characters/*
 logs/*
 *.iml
-
+*.log
 .cache/v/cache/lastfailed
 
 .coverage
